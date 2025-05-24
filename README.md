@@ -74,9 +74,9 @@ Cela lancera l'application web dans votre navigateur par défaut.
 ```mermaid
 graph TD
     A["📁 3D_Teeth_Classification"] --> B["📓 data_preparation.ipynb"]
-    A --> C["📓 model_training.ipynb"]
+    A --> C["📓 train_model.ipynb"]
     A --> D["📱 app.py"]
-    A --> E["📓 model_testing.ipynb"]
+    A --> E["📓 test_model.ipynb"]
     A --> F["📁 data/"]
     
     F --> G["📁 Canine/"]
