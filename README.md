@@ -72,20 +72,20 @@ Cela lancera l'application web dans votre navigateur par défaut.
 ## 📁 Structure du Projet
 
 ```mermaid
-
-    A[📁 Projet Principal] --> B[📓 data_preparation.ipynb]
-    A --> C[📓 model_training.ipynb]
-    A --> D[📱 app.py]
-    A --> E[📓 model_testing.ipynb]
-    A --> F[📁 data/]
+graph TD
+    A["📁 3D_Teeth_Classification"] --> B["📓 data_preparation.ipynb"]
+    A --> C["📓 model_training.ipynb"]
+    A --> D["📱 app.py"]
+    A --> E["📓 model_testing.ipynb"]
+    A --> F["📁 data/"]
     
-    F --> G[📁 Canine/]
-    F --> H[📁 Deuxieme_molaire/]
-    F --> I[📁 Deuxieme_premolaire/]
-    F --> J[📁 Incisive_centrale/]
-    F --> K[📁 Incisive_laterale/]
-    F --> L[📁 Premiere_molaire/]
-    F --> M[📁 Premiere_premolaire/]
+    F --> G["📁 Canine/"]
+    F --> H["📁 Deuxieme_molaire/"]
+    F --> I["📁 Deuxieme_premolaire/"]
+    F --> J["📁 Incisive_centrale/"]
+    F --> K["📁 Incisive_laterale/"]
+    F --> L["📁 Premiere_molaire/"]
+    F --> M["📁 Premiere_premolaire/"]
     
     style A fill:#e1f5fe
     style F fill:#f3e5f5
@@ -93,8 +93,7 @@ Cela lancera l'application web dans votre navigateur par défaut.
     style C fill:#e8f5e8
     style D fill:#fff3e0
     style E fill:#e8f5e8
-
-    
+```
 
 ## ⚠️ Remarques
 
