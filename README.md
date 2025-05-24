@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce projet, réalisé en collaboration avec **3D Smart Factory**, utilise des réseaux de neurones convolutifs (ConvNet) pour classifier des modèles de dents en 3D. Il combine l'expertise industrielle en imagerie 3D avec des techniques avancées d'apprentissage profond pour améliorer la précision et l'efficacité des diagnostics dentaires.
+Ce projet, réalisé par Abdelilah Ourti utilise des réseaux de neurones convolutifs (ConvNet) pour classifier des modèles de dents en 3D. Il combine l'expertise industrielle en imagerie 3D avec des techniques avancées d'apprentissage profond pour améliorer la précision et l'efficacité des diagnostics dentaires.
 
 ## ✨ Fonctionnalités
 
@@ -113,4 +113,4 @@ Pour toute question ou suggestion, veuillez contacter :
 
 ---
 
-*Développé en collaboration avec 3D Smart Factory*
+*Développé par Abdelilah Ourti*
